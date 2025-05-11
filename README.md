@@ -25,7 +25,7 @@
             <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">About Me</h2>
             <div class="flex flex-col md:flex-row gap-8">
                 <div class="md:w-1/3">
-                    <img src="assets/profile.jpg" alt="Profile Photo" class="w-full rounded shadow">
+                    <img src="WhatsApp Image 2025-05-11 at 18.27.10.jpeg" alt="Profile Photo" class="w-full rounded shadow">
                 </div>
                 <div class="md:w-2/3">
                     <p class="text-gray-700 mb-4">
