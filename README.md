@@ -13,7 +13,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
-                    <a href="index.html" class="text-2xl font-bold text-teal-600">Dr. [Your Name]</a>
+                    <a href="index.html" class="text-2xl font-bold text-teal-600">Kumar Satyadarshi</a>
                 </div>
                 <div class="flex items-center space-x-4">
                     <a href="index.html" class="text-gray-700 hover:text-teal-600 px-3 py-2 rounded-md">Home</a>
