@@ -29,7 +29,7 @@
     <section id="home" class="bg-gradient-to-r from-teal-500 to-blue-600 text-white py-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h1 class="text-4xl md:text-5xl font-bold mb-4">Welcome to My Academic Website</h1>
-            <p class="text-lg md:text-xl mb-6">Dr. [Your Name], Mathematician</p>
+            <p class="text-lg md:text-xl mb-6">Kumar Satyadarshi</p>
             <p class="text-base md:text-lg mb-8 max-w-2xl mx-auto">Explore my research in [your field, e.g., algebraic topology], teaching notes, publications, and mathematical insights.</p>
             <a href="#about" class="inline-block bg-white text-teal-600 font-semibold px-6 py-3 rounded-md hover:bg-gray-200 transition">Learn More</a>
         </div>
