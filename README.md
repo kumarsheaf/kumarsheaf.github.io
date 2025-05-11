@@ -62,11 +62,7 @@
     <footer class="bg-gray-800 text-white py-8">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <p class="mb-4">Contact: <a href="mailto:your.kumarsatyadarshi@gmail.com" class="underline hover:text-teal-400">your.email@example.com</a></p>
-            <p class="mb-4">
-                <a href="https://orcid.org/your-orcid-id" target="_blank" class="underline hover:text-teal-400 mx-2">ORCID</a>  |
-                <a href="https://scholar.google.com/citations?user=your-id" target="_blank" class="underline hover:text-teal-400 mx-2">Google Scholar</a> |
-                <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/your-id" target="_blank" class="underline hover:text-teal-400 mx-2">MathSciNet</a>
-            </p>
+           
             <p>© 2025 Dr. [Your Name]. All rights reserved.</p>
         </div>
     </footer>
