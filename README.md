@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,7 +41,7 @@
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-8">
         <div class="max-w-4xl mx-auto px-4 text-center">
-            <p class="mb-4">Contact: <a href="mailto:your.kumarsatyadarshi@gmail.com" class="underline hover:text-teal-400">your.kumarsatyadarshi@gmail.com</a></p>
+            <p class="mb-4">Contact: <a href="mailto:your.kumarsatyadarshi@gmail.com" class="underline hover:text-teal-400">kumarsatyadarshi@gmail.com</a></p>
             <p>© 2025 Kumar Satyadarshi. All rights reserved.</p>
         </div>
     </footer>
