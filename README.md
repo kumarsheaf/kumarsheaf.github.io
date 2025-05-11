@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Kumar Satyadarshi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
@@ -40,30 +39,10 @@
             </div>
         </div>
     </section>
-
-    <!-- Quick Links Section -->
-    <section class="py-16 bg-gray-100">
-        <div class="max-w-4xl mx-auto px-4">
-            <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">Explore My Work</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <div class="bg-white p-6 rounded shadow text-center">
-                    <h3 class="text-xl font-semibold text-gray-700 mb-4">Notes</h3>
-                    <p class="text-gray-600 mb-4">Access lecture notes and mathematical write-ups.</p>
-                    <a href="notes.html" class="text-teal-600 font-semibold hover:underline">View Notes</a>
-                </div>
-                <div class="bg-white p-6 rounded shadow text-center">
-                    <h3 class="text-xl font-semibold text-gray-700 mb-4">Blog</h3>
-                    <p class="text-gray-600 mb-4">Read my insights on mathematics and research.</p>
-                    <a href="blog.html" class="text-teal-600 font-semibold hover:underline">Read Blog</a>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-8">
         <div class="max-w-4xl mx-auto px-4 text-center">
-            <p class="mb-4">Contact: <a href="mailto:your.kumarsatyadarshi@gmail.com" class="underline hover:text-teal-400">your.email@example.com</a></p>
+            <p class="mb-4">Contact: <a href="mailto:your.kumarsatyadarshi@gmail.com" class="underline hover:text-teal-400">your.kumarsatyadarshi@gmail.com</a></p>
             <p>© 2025 Kumar Satyadarshi. All rights reserved.</p>
         </div>
     </footer>
