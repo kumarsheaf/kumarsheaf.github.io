@@ -23,16 +23,6 @@
         </div>
     </nav>
 
-    <!-- Hero Section -->
-    <section id="home" class="bg-gradient-to-r from-teal-500 to-blue-600 text-white py-20">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 class="text-4xl md:text-5xl font-bold mb-4">Welcome to My Academic Website</h1>
-            <p class="text-lg md:text-xl mb-6">Kumar Satyadarshi</p>
-            <p class="text-base md:text-lg mb-8 max-w-2xl mx-auto">Explore my research in [your field, e.g., algebraic topology], teaching notes, publications, and mathematical insights.</p>
-            <a href="#about" class="inline-block bg-white text-teal-600 font-semibold px-6 py-3 rounded-md hover:bg-gray-200 transition">Learn More</a>
-        </div>
-    </section>
-
     <!-- About Section -->
     <section id="about" class="py-16 bg-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -42,9 +32,9 @@
                     <img src="assets/profile-placeholder.jpg" alt="Profile Photo" class="w-full rounded-lg shadow-md">
                 </div>
                 <div class="md:w-2/3">
-                    <p class="text-gray-600 mb-4">I am a mathematician specializing in [your field, e.g., number theory, differential geometry]. My research focuses on [brief research description, e.g., modular forms and their applications].</p>
-                    <p class="text-gray-600 mb-4">I am currently a [your position, e.g., Professor at University X], where I teach courses on [e.g., abstract algebra, calculus] and mentor students in mathematical research.</p>
-                    <p class="text-gray-600">This website hosts my publications, lecture notes, and occasional blog posts on mathematical topics. Feel free to explore or contact me for collaborations.</p>
+                    <p class="text-gray-600 mb-4">I am a keen interest in Differential geometry and mathematical physics.</p>
+                    
+                    <p class="text-gray-600">This website hosts notes and occasional blog posts on mathematical topics. Feel free to explore or contact me for collaborations.</p>
                 </div>
             </div>
         </div>
