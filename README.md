@@ -23,8 +23,8 @@
         <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">Notes</h2>
         <ul class="list-disc list-inside text-gray-700">
             <li>
-                <a href="" target="_blank" class="text-teal-600 hover:underline">
-                    Differential Geometry Notes (PDF)
+                <a href="Simplicial_Homology.pdf" target="_blank" class="text-teal-600 hover:underline">
+                    Simplicial Homology (PDF)
                 </a>
             </li>
         </ul>
