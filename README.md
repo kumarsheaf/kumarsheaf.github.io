@@ -18,7 +18,18 @@
             </div>
         </div>
     </nav>
-
+<section class="py-16 bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">Notes</h2>
+        <ul class="list-disc list-inside text-gray-700">
+            <li>
+                <a href="" target="_blank" class="text-teal-600 hover:underline">
+                    Differential Geometry Notes (PDF)
+                </a>
+            </li>
+        </ul>
+    </div>
+</section>
     <!-- About Section -->
     <section id="about" class="py-16 bg-white">
         <div class="max-w-4xl mx-auto px-4">
