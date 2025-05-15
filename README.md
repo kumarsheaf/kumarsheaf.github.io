@@ -13,12 +13,7 @@
                 <div class="flex space-x-4">
                     <a href="index.html" class="text-gray-700 hover:text-teal-600 px-3 py-2">Home</a>
                     <a href="notes.html" class="text-gray-700 hover:text-teal-600 px-3 py-2">Notes</a>
-                    <a href="blog.html" class="text-gray-700 hover:text-teal-600 px-3 py-2">Blog</a>
-                </div>
-            </div>
-        </div>
-    </nav>
-<section class="py-16 bg-white">
+                    <section class="py-16 bg-white">
     <div class="max-w-4xl mx-auto px-4">
         <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">Notes</h2>
         <ul class="list-disc list-inside text-gray-700">
@@ -30,6 +25,12 @@
         </ul>
     </div>
 </section>
+                    <a href="blog.html" class="text-gray-700 hover:text-teal-600 px-3 py-2">Blog</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
     <!-- About Section -->
     <section id="about" class="py-16 bg-white">
         <div class="max-w-4xl mx-auto px-4">
